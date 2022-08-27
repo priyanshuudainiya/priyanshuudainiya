@@ -1,10 +1,10 @@
 
-* Hey, I’m @priyanshuudainiya !!!
-* I’m interested in Web-Development,Software-Development and many things.
-* I’m currently learning C/C++,Java,Python & HTML,CSS,Bootstrap,Java-Script,PHP and MySQL.
-* I’m looking to collaborate on whatever i get, i am not missing any opportunity.I want to be involved in any Web-Development project.
-* Mail- priyanshuudainiya@gmail.com
-
+👋 Hey, I’m @priyanshuudainiya !!!
+✨ I’m interested in Web-Development,Software-Development and many things.
+🌱 I’m currently learning C/C++,Java,Python & HTML,CSS,Bootstrap,Java-Script,PHP and MySQL.
+👀 I’m looking to collaborate on whatever i get, i am not missing any opportunity.I want to be involved in any Web-Development project.
+📬 Mail- priyanshuudainiya@gmail.com
+👥 Instagram - @priyansh.0002
 <!--
 **priyanshuudainiya/priyanshuudainiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
