@@ -1,10 +1,13 @@
 
-* 👋 Hey, I’m @priyanshuudainiya !!!
-* ✨ I’m interested in Web-Development,Software-Development and many things.
-* 🌱 I’m currently learning C/C++,Java,Python & HTML,CSS,Bootstrap,Java-Script,PHP and MySQL.
-* 👀 I’m looking to collaborate on whatever i get, i am not missing any opportunity. I want to be involved in any Web-Development project.
-* 📬 Mail- priyanshuudainiya@gmail.com
-* 👥 Instagram - @priyansh.0002
+# 👋 Hey, I’m @priyanshuudainiya !!!
+* <b> ✨ I’m interested in Web-Development,Software-Development and many things. </b>
+* <b> 🌱 I’m currently learning C/C++,Java,Python & HTML,CSS,Bootstrap,Java-Script,PHP and MySQL. </b>
+* <b> 👀 I’m looking to collaborate on whatever i get, i am not missing any opportunity. I want to be involved in any Web-Development project. </b>
+
+#   Connect with me on -
+* <b> 📬 Mail- priyanshuudainiya@gmail.com </b>
+* <b> 👥 LinkedIn - https://www.linkedin.com/in/priyanshu-udainiya-453203231/ </b>
+* <b> 👥 Instagram - @priyansh.0002 </b>
 <!--
 **priyanshuudainiya/priyanshuudainiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
