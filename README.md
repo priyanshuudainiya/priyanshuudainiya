@@ -4,7 +4,7 @@
 * <b> ✨ I’m interested in Web-Development,Software-Development and many things. </b>
 * <b> 👀 I’m looking to collaborate on whatever i get, i am not missing any opportunity. I want to be involved in any Web-Development project. </b>
 
-# <h1 align="center"> My Tech Stack - </h1>
+# <h1 align="center"> 💻 My Tech Stack - </h1>
 <p align="center">
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,9 +21,9 @@
 
 </p>
 
-# <h1 align="center"> 🔗 Connect with me on - </h1>
+# <h1 align="center"> 👥 Connect with me on - </h1>
 * <b> ✉️ Mail- <a href="mailto:priyanshuudainiya@gmail.com"> priyanshuudainiya@gmail.com </a> </b>
-* <b> 👥 LinkedIn - <a href="https://www.linkedin.com/in/priyanshu-udainiya-453203231/"> Priyanshu Udainiya </a></b>
+* <b> 👤 LinkedIn - <a href="https://www.linkedin.com/in/priyanshu-udainiya-453203231/"> Priyanshu Udainiya </a></b>
 * <b> 🎭 Instagram - <a href="https://www.instagram.com/priyansh.0002/?hl=en"> @priyansh.0002 </a></b>
 
 
